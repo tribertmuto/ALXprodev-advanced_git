@@ -1,1 +1,3 @@
-Login Feature Coming soon
+feature coming soon
+
+data requirements: email, password
